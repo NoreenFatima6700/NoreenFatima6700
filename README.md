@@ -19,5 +19,5 @@ A Python-based tool to visualize disk usage by analyzing and displaying the top 
 - [Repository Link](https://github.com/NoreenFatima6700/OS_Project)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/noreen-fatima/)
+- [LinkedIn](https://www.linkedin.com/in/noreenfatima6700/)
 
