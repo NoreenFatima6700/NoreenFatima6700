@@ -9,7 +9,6 @@ I've interests in Data Science and AI. I enjoy learning new technologies and app
 
 ## Skills
 - **Programming Languages**: Python, C++, C
-- **Data Science**: Pandas, NumPy, Matplotlib
 - **Web Development**: HTML, CSS
 - **Tools**: Jupyter Notebooks, VS Code
 
