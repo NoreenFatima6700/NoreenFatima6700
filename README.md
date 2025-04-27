@@ -1,16 +1,16 @@
 # Hi there, I'm Noreen Fatima! 👋
 
 ## About Me
-I've interests in Data Science and AI. I enjoy learning new technologies and applying them to solve real-world problems.
+I've interests in Data Science and Artificial Intelligence. I enjoy learning new technologies and applying them to solve real-world problems.
 
 - 🎓 Currently studying IT at University of Sargodha
 - 🌱 Also, learning advanced data science techniques and deepening my knowledge in AI
 - 💬 Ask me about Python, C++, and data visualization
 
 ## Skills
-- **Programming Languages**: Python, C++, C
-- **Web Development**: HTML, CSS
-- **Tools**: Jupyter Notebooks, VS Code
+- **Programming Languages**: Python, C++, C, R
+- **Web Development**: HTML, CSS, Java Script
+- **Tools**: Jupyter Notebook, VS Code
 
 ## Projects
 ### Disk Usage Analyzer
